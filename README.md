@@ -3,4 +3,4 @@ I am not familiar with GitHub at all.
 
 If anyone can help with connecting my GitHub CLI (Which, for all I know, might not be properly installed) to my GitHub account, that will be great!
 
-I don't care about my contribution graph.
+I don't care about my contribution graph, but it's a great way to make you want to boost your activity.
