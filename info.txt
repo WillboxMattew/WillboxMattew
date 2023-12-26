@@ -1,0 +1,6 @@
+===== GENERIC INFO =====
+
+I will pick a random repository from an entry list and contribute to it every once in a while. You can find this repository at WillboxMattew/RepositoriesInABucket.
+The README.txt file contains what you'll need to know.
+
+-WillboxMattew
